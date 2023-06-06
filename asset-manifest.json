@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rajeshportfolio/static/css/main.fc6418fe.css",
+    "main.js": "/rajeshportfolio/static/js/main.469deead.js",
+    "index.html": "/rajeshportfolio/index.html",
+    "main.fc6418fe.css.map": "/rajeshportfolio/static/css/main.fc6418fe.css.map",
+    "main.469deead.js.map": "/rajeshportfolio/static/js/main.469deead.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc6418fe.css",
+    "static/js/main.469deead.js"
+  ]
+}
